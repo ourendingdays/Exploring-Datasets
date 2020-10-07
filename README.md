@@ -15,3 +15,5 @@
 
 #### Evaluating the following famous [Student Performance Data Set](http://archive.ics.uci.edu/ml/datasets/Student+Performance) by Paulo Cortez.
 
+1. Detailed visualization of feature engineering
+
