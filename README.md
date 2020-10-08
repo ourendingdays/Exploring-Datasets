@@ -23,8 +23,8 @@
 #### Evaluating the following famous [Student Performance Data Set](http://archive.ics.uci.edu/ml/datasets/Student+Performance) by Paulo Cortez.
 
 1. Two netobooks:
-  1. Student performance - main file with all explanations and procedure
-  2. briefly testing models - simple draft for testing model
+  - Student performance - main file with all explanations and procedure
+  - briefly testing models - simple draft for testing model
 2. Detailed visualization of feature engineering
 3. Detailed explanation of such important things, as scaling, encoding and feature chose
 
