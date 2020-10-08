@@ -2,7 +2,10 @@
 
 ## Commit rules:
 
-Dataset name: the work done - what to do next / what is needed
+1. Dataset name: the work done - what to do next / what is needed
+2. README.md : update
+
+-----
 
 ## Car-Evaluation Dataset
 
@@ -19,5 +22,9 @@ Dataset name: the work done - what to do next / what is needed
 
 #### Evaluating the following famous [Student Performance Data Set](http://archive.ics.uci.edu/ml/datasets/Student+Performance) by Paulo Cortez.
 
-1. Detailed visualization of feature engineering
+1. Two netobooks:
+  1. Student performance - main file with all explanations and procedure
+  2. briefly testing models - simple draft for testing model
+2. Detailed visualization of feature engineering
+3. Detailed explanation of such important things, as scaling, encoding and feature chose
 
