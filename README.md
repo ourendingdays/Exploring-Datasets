@@ -1,5 +1,9 @@
 # Exploring Datasets from kaggle or other open-source directories
 
+## Commit rules:
+
+Dataset name: the work done - what to do next / what is needed
+
 ## Car-Evaluation Dataset
 
 #### Evaluating the following famous [Car Evaluation Data Set](http://archive.ics.uci.edu/ml/datasets/Car+Evaluation) by Marco Bohavic with following two models.
