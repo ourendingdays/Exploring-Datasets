@@ -28,3 +28,12 @@
 2. Detailed visualization of feature engineering
 3. Detailed explanation of such important things, as scaling, encoding and feature chose
 
+---
+
+## _neural networks
+
+#### Directory dedicated to learning ANN
+
+1. Two netobooks:
+  - Minimal Intro with TensorFlow 2 - implementing simple linear formula with simpliest ANN
+  - Simple TensorFlow Example - TF as low-level API
